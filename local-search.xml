@@ -5,8 +5,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="/2021/03/17/%E6%B5%8B%E8%AF%95/"/>
-    <url>/2021/03/17/%E6%B5%8B%E8%AF%95/</url>
+    <link href="/testpage/2021/03/17/%E6%B5%8B%E8%AF%95/"/>
+    <url>/testpage/2021/03/17/%E6%B5%8B%E8%AF%95/</url>
     
     <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><p><em>啦啦啦啦啦</em></p><pre><code>1234567890</code></pre>]]></content>
     
